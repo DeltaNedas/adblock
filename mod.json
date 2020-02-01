@@ -1,0 +1,8 @@
+{
+	"name": "adblock",
+	"displayName": "[white]Ad[red]Block[]",
+	"author": "DeltaNedas",
+	"description": "Removes the default server list.",
+	"version": "1.0.0",
+	"hidden": true
+}
